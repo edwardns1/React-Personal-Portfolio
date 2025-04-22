@@ -25,7 +25,7 @@ function Projects() {
                 <div className="project-content">
                     <img src={project2Image} alt="Concert Ticket App Design" className="project-image" />
                     <div className="project-text">
-                        <h3>Project 2</h3>
+                        <h3>Event Ticketing App</h3>
                         <p>
                             This project is a design for a ticketing app where users can purchase tickets for concerts and festivals. The design aims to be intuitive and bold with vibrant colors and a simple layout.
                         </p>
